@@ -1,0 +1,17 @@
+/Users/benjaminlettner/Documents/CSharpProjects/RPG/RPG/obj/Debug/net8.0/RPG.csproj.AssemblyReference.cache
+/Users/benjaminlettner/Documents/CSharpProjects/RPG/RPG/obj/Debug/net8.0/RPG.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjaminlettner/Documents/CSharpProjects/RPG/RPG/obj/Debug/net8.0/RPG.AssemblyInfoInputs.cache
+/Users/benjaminlettner/Documents/CSharpProjects/RPG/RPG/obj/Debug/net8.0/RPG.AssemblyInfo.cs
+/Users/benjaminlettner/Documents/CSharpProjects/RPG/RPG/obj/Debug/net8.0/RPG.csproj.CoreCompileInputs.cache
+/Users/benjaminlettner/Documents/CSharpProjects/RPG/RPG/bin/Debug/net8.0/RPG
+/Users/benjaminlettner/Documents/CSharpProjects/RPG/RPG/bin/Debug/net8.0/RPG.deps.json
+/Users/benjaminlettner/Documents/CSharpProjects/RPG/RPG/bin/Debug/net8.0/RPG.runtimeconfig.json
+/Users/benjaminlettner/Documents/CSharpProjects/RPG/RPG/bin/Debug/net8.0/RPG.dll
+/Users/benjaminlettner/Documents/CSharpProjects/RPG/RPG/bin/Debug/net8.0/RPG.pdb
+/Users/benjaminlettner/Documents/CSharpProjects/RPG/RPG/bin/Debug/net8.0/Spectre.Console.dll
+/Users/benjaminlettner/Documents/CSharpProjects/RPG/RPG/obj/Debug/net8.0/RPG.csproj.CopyComplete
+/Users/benjaminlettner/Documents/CSharpProjects/RPG/RPG/obj/Debug/net8.0/RPG.dll
+/Users/benjaminlettner/Documents/CSharpProjects/RPG/RPG/obj/Debug/net8.0/refint/RPG.dll
+/Users/benjaminlettner/Documents/CSharpProjects/RPG/RPG/obj/Debug/net8.0/RPG.pdb
+/Users/benjaminlettner/Documents/CSharpProjects/RPG/RPG/obj/Debug/net8.0/RPG.genruntimeconfig.cache
+/Users/benjaminlettner/Documents/CSharpProjects/RPG/RPG/obj/Debug/net8.0/ref/RPG.dll

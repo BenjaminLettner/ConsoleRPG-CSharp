@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xAmdln7WWHlXUWagYJxhQ7BCPhbpQVf7VLkPJfxwIh8dYidgdHwvO1qfG1vtbbkVZBDAJirkKhXDuMLbApdRpA==",
+  "success": true,
+  "projectFilePath": "/Users/benjaminlettner/Documents/CSharpProjects/RPG/RPG/RPG.csproj",
+  "expectedPackageFiles": [
+    "/Users/benjaminlettner/.nuget/packages/spectre.console/0.49.1/spectre.console.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}

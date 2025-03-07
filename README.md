@@ -50,7 +50,7 @@ A fully-featured, text-based dungeon crawler RPG built with C# and Spectre.Conso
 git clone https://github.com/BenjaminLettner/ConsoleRPG-CSharp.git
 
 # Navigate to the project directory
-cd ConsoleRPG-CSharp/RPG
+cd ConsoleRPG-CSharp
 
 # Build the project
 dotnet build
